@@ -1,0 +1,6 @@
+@Picas_y_Famas_HostAddress = http://localhost:5054
+
+GET {{Picas_y_Famas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
