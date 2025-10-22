@@ -1,9 +1,7 @@
 ﻿namespace Picas_y_Famas.DataTransferObjects
 {
-    public class RegisterPlayerRequest
+    public class RegisterPlayerResponse
     {
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
-        public int Edad { get; set; }
+        public int PlayerId { get; set; }
     }
 }

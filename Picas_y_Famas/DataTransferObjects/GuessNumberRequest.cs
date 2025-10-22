@@ -2,5 +2,7 @@
 {
     public class GuessNumberRequest
     {
+        public int GameId { get; set; }
+        public string IntentoNumero { get; set; }
     }
 }
