@@ -447,23 +447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\caro_\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\3° AÑO\\Programación aplicada\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
       "projectName": "Picas_y_Famas",
-      "projectPath": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
-      "packagesPath": "C:\\Users\\caro_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\3° AÑO\\Programación aplicada\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\3° AÑO\\Programación aplicada\\Parcial_3\\Picas_y_Famas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\caro_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -520,7 +520,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

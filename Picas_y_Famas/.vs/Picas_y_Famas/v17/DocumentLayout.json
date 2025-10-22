@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\picas_y_famas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:picas_y_famas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Picas_y_Famas",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
+              "RelativeDocumentMoniker": "Picas_y_Famas.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Picas_y_Famas.csproj",
+              "RelativeToolTip": "Picas_y_Famas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T01:02:41.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
