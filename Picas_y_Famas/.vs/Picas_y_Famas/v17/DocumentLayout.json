@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\",
+  "WorkspaceRootPath": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\datatransferobjects\\startgameresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:datatransferobjects\\startgameresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\datatransferobjects\\startgamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:datatransferobjects\\startgamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\datatransferobjects\\registerplayerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\datatransferobjects\\registerplayerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:datatransferobjects\\registerplayerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\datatransferobjects\\guessnumberresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\caro_\\desktop\\parcial_3\\picas_y_famas\\datatransferobjects\\guessnumberresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:datatransferobjects\\guessnumberresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +39,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:31:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartGameResponse.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\StartGameResponse.cs",
+              "RelativeDocumentMoniker": "DataTransferObjects\\StartGameResponse.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\StartGameResponse.cs",
+              "RelativeToolTip": "DataTransferObjects\\StartGameResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:31:09.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartGameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\StartGameRequest.cs",
+              "RelativeDocumentMoniker": "DataTransferObjects\\StartGameRequest.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\StartGameRequest.cs",
+              "RelativeToolTip": "DataTransferObjects\\StartGameRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:29:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Models\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Models\\Player.cs",
-              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\Models\\Player.cs",
               "RelativeToolTip": "Models\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GuessNumberResponse.cs",
-              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\GuessNumberResponse.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\GuessNumberResponse.cs",
               "RelativeDocumentMoniker": "DataTransferObjects\\GuessNumberResponse.cs",
-              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\GuessNumberResponse.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\GuessNumberResponse.cs",
               "RelativeToolTip": "DataTransferObjects\\GuessNumberResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RegisterPlayerResponse.cs",
-              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\RegisterPlayerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\RegisterPlayerResponse.cs",
               "RelativeDocumentMoniker": "DataTransferObjects\\RegisterPlayerResponse.cs",
-              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\RegisterPlayerResponse.cs",
+              "ToolTip": "C:\\Users\\caro_\\Desktop\\Parcial_3\\Picas_y_Famas\\DataTransferObjects\\RegisterPlayerResponse.cs",
               "RelativeToolTip": "DataTransferObjects\\RegisterPlayerResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
