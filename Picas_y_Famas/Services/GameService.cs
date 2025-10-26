@@ -6,7 +6,7 @@ using Picas_y_Famas.Models;
 using Picas_y_Famas.Services;
 using System;
 
-namespace NumberGuessGameApi.Services
+namespace Picas_y_Famas.Services
 {
     public class GameService : IGameService
     {
