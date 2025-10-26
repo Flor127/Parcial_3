@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "NumberGuessGameApi.Controllers.GameController",
+    "Method": "GuessNumber",
+    "RelativePath": "api/game/v1/guess",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Picas_y_Famas.DataTransferObjects.GuessNumberRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Picas_y_Famas.DataTransferObjects.GuessNumberResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NumberGuessGameApi.Controllers.GameController",
+    "Method": "RegisterPlayer",
+    "RelativePath": "api/game/v1/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Picas_y_Famas.DataTransferObjects.RegisterPlayerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Picas_y_Famas.DataTransferObjects.RegisterPlayerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NumberGuessGameApi.Controllers.GameController",
+    "Method": "StartGame",
+    "RelativePath": "api/game/v1/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Picas_y_Famas.DataTransferObjects.StartGameRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Picas_y_Famas.DataTransferObjects.StartGameResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
