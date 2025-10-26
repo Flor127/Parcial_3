@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Picas_y_Famas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+382f6601b16adacbbe0b65419f2a520d4441dc47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b257bc112c5cdcc58f363bb8bd4177025a8bde38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Picas_y_Famas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Picas_y_Famas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
