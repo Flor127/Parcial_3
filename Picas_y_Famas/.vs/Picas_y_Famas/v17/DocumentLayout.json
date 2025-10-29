@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\",
+  "WorkspaceRootPath": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\usuario\\desktop\\3\u00B0 a\u00F1o\\programaci\u00F3n aplicada\\parcial_3\\picas_y_famas\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|c:\\users\\agust\\documents\\facultad io\\manuel belgrano\\tercer a\u00F1o\\programacion aplicada ii\\repositorios\\parcial_3\\picas_y_famas\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD63D8C8-ADC4-4AD4-8D54-A8FD94DB3E1F}|Picas_y_Famas.csproj|solutionrelative:services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,70 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Services\\GameService.cs",
-              "RelativeDocumentMoniker": "Services\\GameService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Services\\GameService.cs",
-              "RelativeToolTip": "Services\\GameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T23:09:13.061Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T23:00:13.337Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T00:52:16.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T22:59:12.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T23:09:13.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Controllers\\GameController.cs",
-              "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T22:28:55.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T23:00:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:59:12.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:28:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IGameService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Services\\IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Services\\IGameService.cs",
               "RelativeDocumentMoniker": "Services\\IGameService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3\u00B0 A\u00D1O\\Programaci\u00F3n aplicada\\Parcial_3\\Picas_y_Famas\\Services\\IGameService.cs",
+              "ToolTip": "C:\\Users\\agust\\Documents\\facultad io\\Manuel Belgrano\\Tercer a\u00F1o\\Programacion aplicada II\\Repositorios\\Parcial_3\\Picas_y_Famas\\Services\\IGameService.cs",
               "RelativeToolTip": "Services\\IGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
